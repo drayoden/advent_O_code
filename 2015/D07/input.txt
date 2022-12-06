@@ -1,0 +1,12 @@
+af AND ah -> ai
+NOT lk -> ll
+hz RSHIFT 1 -> is
+NOT go -> gp
+du OR dt -> dv
+x RSHIFT 5 -> aa
+1 AND az -> ba
+eo LSHIFT 15 -> es
+xo RSHIFT 12 -> aa
+ci OR ct -> cu
+b RSHIFT 5 -> f
+13 -> bo

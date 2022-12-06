@@ -1,0 +1,10 @@
+E1:[5-96] E2:[6-99] overlap
+E1:[29-97] E2:[80-97] overlap
+E1:[3-87] E2:[3-4] overlap
+E1:[12-12] E2:[6-12] overlap
+E1:[64-65] E2:[24-66] overlap
+E1:[52-54] E2:[1-53] overlap
+E1:[86-89] E2:[85-88] overlap
+E1:[37-69] E2:[38-38] overlap
+E1:[81-96] E2:[47-75] No overlap
+E1:[1-13] E2:[18-44] No overlap
