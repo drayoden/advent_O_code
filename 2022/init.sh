@@ -1,13 +1,13 @@
 #!/bin/bash
 
-newdir=$1
+d=$1
+day=D$d
 
 echo "Creating $newdir..."
-mkdir $1
+mkdir $day
 
-cp init.txt $newdir/p1.py
-cp init.txt $newdir/p2.py
-touch $newdir/input.txt
-touch $newdir/test.txt
+cp init.txt $day/S$d.py
+touch $day/input.txt
+touch $day/test.txt
 echo "Done!"
 

@@ -1,17 +1,22 @@
+wires = {
+    'a': 37,
+    'll': 382,
+    'b': 1838
+}
 
-set = {}
-set[0] = 'zero'
-set[1] = 'one'
-set[2] = 'two'
-set[3] = 'three'
+print(wires)
 
-print(set)
 
-def nonlooploop(x, t = {}, i = 0):
-    if not x in t:
-        c = set[x]
-        t[i] = i + 7
-        i += 1
-    return t[x]
+# add a wire:
+wires['cc'] = 397
+print(wires)
 
-print(nonlooploop(2))
+# update a wire:
+wires['a'] = 72
+print(wires)
+
+val = 'abc'
+print(val)
+
+val2 = (val,)
+print(val2)

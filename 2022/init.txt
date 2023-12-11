@@ -1,5 +1,4 @@
-import sys
-lines = sys.stdin.readlines()
+import fileinput
 
-for l in lines:
+COMMANDS = [l.strip() for l in fileinput.input() ]
 

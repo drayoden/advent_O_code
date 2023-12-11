@@ -1,0 +1,35 @@
+$ cd /
+$ ls
+12 f1
+84 f2
+dir d1
+34 f6
+84 f7
+dir d2
+73 f15
+12 f16
+dir d4
+$ cd d1
+$ ls
+56 f3
+93 f4
+12 f5
+$ cd ..
+$ cd d2
+$ ls 
+31 f8
+63 f9
+dir d3
+71 f13
+17 f14
+$ cd d3
+$ ls 
+15 f10
+83 f11
+61 f12
+$ cd ..
+$ cd ..
+$ cd d4
+$ ls 
+61 f17
+20 f18
